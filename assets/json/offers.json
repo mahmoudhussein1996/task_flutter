@@ -1,0 +1,16 @@
+[
+  {
+    "id":876,
+    "name": "mega whopper",
+    "availabilityTime": "24 December 2022",
+    "oldPrice ": 32,
+    "newPrice":17
+  },
+  {
+    "id":850,
+    "name": "american steak",
+    "availabilityTime": "26 December 2022",
+    "originPrice ": 25,
+    "sealingPrice":15
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id":95494,
+    "name": "Summer sun ice cream",
+    "brief": "pieces 5",
+    "timeOfDeliver": "15 minutes",
+    "originPrice ": 18,
+    "sealingPrice":12
+  },
+  {
+    "id":9562,
+    "name": "Turkish steak",
+    "brief": "173 grams",
+    "timeOfDeliver": "40 minutes",
+    "originPrice ": 25,
+    "sealingPrice":20
+  },
+  {
+    "id":93564,
+    "name": "salmon",
+    "brief": "pieces 2",
+    "timeOfDeliver": "30 minutes",
+    "originPrice ": 30,
+    "sealingPrice":26
+  },
+  {
+    "id":98765,
+    "name": "red juice",
+    "brief": "1 battle",
+    "timeOfDeliver": "50 minutes",
+    "originPrice ": 25,
+    "sealingPrice": 18
+  },
+  {
+    "id":654,
+    "name": "cola",
+    "brief": "1 battle",
+    "timeOfDeliver": "20 minutes",
+    "originPrice ": 11,
+    "sealingPrice": 9
+  }
+]

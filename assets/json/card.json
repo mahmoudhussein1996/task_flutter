@@ -1,0 +1,24 @@
+{
+  "totalPrice": 80,
+  "itemsNumber": 2,
+  "items": [
+    {
+      "id":6526,
+      "name": "Turkish steak",
+      "unit": "Grams",
+      "quantity": "173",
+      "price": "25$",
+      "sealingQuantity": 2,
+      "totalPrice": 50
+    },
+    {
+      "id":88955,
+      "name": "Salmon",
+      "unit": "Serving",
+      "quantity": "2",
+      "price": "30$",
+      "sealingQuantity": 1,
+      "totalPrice": 30
+    }
+  ]
+}
